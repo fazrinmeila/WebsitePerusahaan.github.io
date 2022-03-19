@@ -1,0 +1,39 @@
+.banner{
+  background: url("https://1.bp.blogspot.com/-BpBtdo8xxVU/XmyYqr3YYpI/AAAAAAAAD68/MFrjiGzNoIcOCQi22kMJYVBA8-pK9-fmwCLcBGAsYHQ/s1600/cgv%2Broxy%2Bjember%2Bkoridor.jpg")
+  no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #FFF;
+  }
+
+.crop-img{
+  object-fit: cover;
+}
+
+.team img{
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+a.social{
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #FFF;
+  border-radius: 50px;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.contact{
+  background: url("https://images.unsplash.com/photo-1481660471672-28a88967efdc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=beat-schuler-hO-h0MkyLwY-unsplash.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #FFF;
+}
+
+footer {
+  background-color: #FFF;
+}
